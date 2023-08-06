@@ -297,6 +297,7 @@ body {
     );
 }
 
+/* Toggle between day and night scenary by changing the screen size using media query*/
 @media (max-width: 1000px) {
   :root {
     --building-color1: #000;
